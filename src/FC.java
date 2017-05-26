@@ -52,10 +52,14 @@ public class FC extends Method {
 		while (!agenda.isEmpty()) {
 			// take the first item and process it
 			String p = agenda.remove(0);
-			
+
+			if (p.equals(ask)) {
+				return true;
+			}
+
 			// add to entailed
-//			if (facts.contains(p))
-				entailed.add(p);
+			entailed.add(p);
+			
 			// for each of the clauses....
 			for (int i = 0; i < clauses.size(); i++) {
 				// .... that contain p in its premise
