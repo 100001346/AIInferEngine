@@ -65,7 +65,7 @@ AI Forward Chaining implementation for propositional logic horn form knowledge b
 Github Inference Engine implementation example
 (https://github.com/charlottepierce/Scratchpad/tree/master/Java/IntroToAI/AIIengine)
 
--	Unfortunately this resource seems to have been removed in the last week, however we used this resource to validate some compoenents our implementation methods (mainly for TT) and as a inspriation for test cases.
+-	Unfortunately this resource seems to have been removed in the last week, however we used this resource to validate some components and implementation methods (mainly for TT), and well as an inspiration for test cases.
 
 
 Notes
@@ -75,7 +75,7 @@ Some tests were validated manually using truth tables, which has also been suppl
 
 Summary Report
 --------------
-The workload was spread quite evenly between us, however to be completely accurate, Andy's efforts were slightly more skewed towards the programming and Hamish's efforts were slightly more skewed towards the research and testing components of the assignment.
+The workload was spread quite evenly between us, however to be completely accurate, Andy's efforts were slightly more skewed towards the programming & implementation, and Hamish's efforts were slightly more skewed towards the testing components of the assignment.
 
 Breakdown of our efforts roughly amounted to the following:
 
